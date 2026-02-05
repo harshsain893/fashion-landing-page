@@ -33,7 +33,7 @@ The layout focuses on clean typography, CSS Grid positioning, and video integrat
 
 
 ## 📷 Preview
-(Add a screenshot of the project here)
+<img width="1877" height="851" alt="image" src="https://github.com/user-attachments/assets/edc231bd-3ed7-49ed-b3cd-48503bc463c0" />
 
 
 ## 🙌 Author
